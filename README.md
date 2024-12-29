@@ -1,4 +1,4 @@
-# umi2004.github.io
+# Umi Yamaguchi
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
