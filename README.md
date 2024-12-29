@@ -1,36 +1,29 @@
+# ABOUT  
+Umi Yamaguchi is a Physics and Statistics student at the University of Toronto. Umi has a deep interest in data science, quantum computing, and finance and has honed their Python, R, and advanced statistical modelling skills.  
 
-# Umi Yamaguchi  
+Umi's passion lies in applying computational techniques to solve complex problems, whether through data-driven financial analysis or exploring cutting-edge quantum algorithms. With hands-on experience in laboratory work and economic data analysis, Umi has consistently demonstrated expertise in combining theoretical knowledge with practical applications.  
 
-#### Technical Skills: Python, R, SQL, Monte Carlo Methods, Statistical Modeling  
+In addition to academic pursuits, Umi actively contributes to community events as the Marketing Director for the Q-SITE Conference, where they successfully increased attendance by 129% through innovative marketing strategies. Umi also runs a YouTube channel centred on sourdough bread, showcasing entrepreneurial skills and creativity.  
 
-## Education  
-- **Honors Bachelor of Science**, Physics and Statistics | University of Toronto (_Expected 2025_)  
-- Certifications: IBM Data Science Professional Certificate, Qiskit Global Summer School 2024, Quantum Programming Core (D-Wave)  
+---
 
-## Work Experience  
-**Marketing Director @ Q-SITE Conference (_January 2023 - Present_)**  
-- Spearheaded marketing campaigns that increased event attendance by 129% over two years, growing participation from 350 to 800 attendees.  
-- Developed multi-channel marketing strategies using social media, email, and SEO to boost engagement and visibility.  
+# ACHIEVEMENTS  
+1. **1st Place Winner**, [IBM Challenge at QRISE 2024](https://www.quantumcoalition.io/challenges) – Led a team in designing quantum algorithms, outperforming over 600 participants.  
+2. Conducted experiments on Electron Spin Resonance, Black Body Radiation, and Photoelectric Effect, enhancing practical physics knowledge.  
+3. Created marketing campaigns for Q-SITE that boosted event attendance from 350 to 800 participants in two years, with in-person attendance capped due to high demand.
+4. Built financial models using Fast Fourier Transform to analyze S&P 500 stock trends and predict long-term (_late 2014 until 2019_) market movements.  
 
-**Advanced Physics Laboratory & Computational Physics Research Assistant @ University of Toronto (_January 2024 - April 2024_)**  
-- Conducted experiments on Electron Spin Resonance, Black Body Radiation, and Photoelectric Effect, deepening understanding of advanced physics concepts.  
-- Applied FFT and Monte Carlo techniques to analyze S&P 500 stock data, optimizing models for trend identification.  
+---
 
-**YouTuber @ Umi's Bakery (_2020 - Present_)**  
-- Created a YouTube channel with nearly 2,000 subscribers, featuring content on sourdough bread, highlighted on TV and radio.  
-- Demonstrated entrepreneurial skills by earning $2,500 through a bread booth at Japan Festival Canada.  
+# PROJECTS  
+### Quantum Research: IBM Challenge 2024  
+Developed and analyzed quantum algorithms for teleportation, GHZ states, and error correction using Python. The project won 1st place, highlighting Umi’s ability to apply theoretical physics to practical scenarios. 
 
-## Projects  
-### Quantum Research: IBM Challenge (1st Place)  
-Led a team in developing quantum algorithms for teleportation, GHZ states, and error correction, winning 1st place out of 600+ participants. Leveraged Python to analyze and enhance quantum communication models.  
+### YouTube: Umi's Bakery  
+Produced engaging content on sourdough bread for an audience of nearly 2,000 subscribers, earning recognition on TV and radio for entrepreneurial and community contributions.  
 
-### Financial Analysis Using Python  
-Analyzed S&P 500 stock data using Fast Fourier Transform (FFT) to isolate long-term trends and employed statistical techniques for market predictions.  
+---
 
-## Talks & Workshops  
-- "Marketing Quantum Events: Insights from Q-SITE" – Toronto, 2024  
-- "Introduction to Quantum Algorithms" – Q-SITE Hacks, 2023  
-
-## Publications & Media  
-- "Quantum Research at QRISE 2024" – Winner’s Panel Discussion, 2024  
-- Featured on TV and radio programs for entrepreneurial and community contributions through Umi’s Bakery.  
+# CONNECT  
+- [LinkedIn](https://www.linkedin.com/in/umi-yamaguchi/)  
+- [YouTube](https://www.youtube.com/@UmisBakery)  
