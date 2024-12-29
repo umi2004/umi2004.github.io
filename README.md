@@ -5,6 +5,8 @@ Umi's passion lies in applying computational techniques to solve complex problem
 
 In addition to academic pursuits, Umi actively contributes to community events as the Marketing Director for the Q-SITE Conference, where they successfully increased attendance by 129% through innovative marketing strategies. Umi also runs a YouTube channel centred on sourdough bread, showcasing entrepreneurial skills and creativity.  
 
+<li class="masthead__menu-item">
+          <a href="xxx.github.io/research.html">Projects</a></li>
 ---
 
 # ACHIEVEMENTS  
